@@ -1,0 +1,4 @@
+include ':AdsSdk'
+include ':unity-ads'
+include ':app'
+rootProject.name = "Gym Trainning - Fitness On Pocket"
